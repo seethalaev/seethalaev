@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **euphoricoders**
 
-- 🌱 I’m currently learning **maven , Testng, Junit**
+- 🌱 I’m currently learning **maven , Testng, Junit,Rest-assured**
 
 - 👯 I’m looking to collaborate on **Automation testing**
 
